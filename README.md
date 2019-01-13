@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gitmajo/Kurs-CPP.svg?branch=master)](https://travis-ci.org/gitmajo/Kurs-CPP)
+
 # Kurs-CPP
 Materials from C++ Course at Coders School (January 2019 - March 2019)
 
