@@ -19,7 +19,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 ### Post-work
 - [ ] Zrób test z STLa (w formie papierowej)
-- [ ] Wyzwanie: Zrób zadanie 12A lub 12B (albo nawet oba). Wygrywa osoba, które użyje najmniej gołych pętli for/while/do-while
+- [X] Wyzwanie: Zrób zadanie 12A lub 12B (albo nawet oba). Wygrywa osoba, które użyje najmniej gołych pętli for/while/do-while
+      https://github.com/gitmajo/CryptoApp
 - [ ] Doszlifujcie projekt grupowy:
   - poprawcie znalezione Issues
   - dokończcie brakującą implementację
